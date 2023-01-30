@@ -1,7 +1,7 @@
 {
   "name": "ls_api",
   "version": "1.0.0",
-  "description": "a sample login signup api using jwt toker",
+  "description": "a sample login signup api using jwt token",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js",
